@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 You can cite links like this which is going to be handy. [Academic Pages template](https://github.com/academicpages/academicpages.github.io) 
+
 Getting started
 ======
 Doubles maked one above a full title
