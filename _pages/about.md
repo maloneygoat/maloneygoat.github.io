@@ -13,5 +13,5 @@ This website is very much a work in progress and I am hoping to keep it updated 
 
 
 What is Non-linear Magnetic Response?
-============
+--------
 I dunno man I haven't started reseaching it yet
