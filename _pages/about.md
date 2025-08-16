@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: home/
 title: "[Hello there!](https://www.youtube.com/watch?v=qLAQCYSi1_4)"
 author_profile: true
 redirect_from: 
