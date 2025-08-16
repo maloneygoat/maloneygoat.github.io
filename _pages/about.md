@@ -7,12 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-You can cite links like this which is going to be handy. [Academic Pages template](https://github.com/academicpages/academicpages.github.io) 
+My name is Brian Maloney and I am Theoretical Physics PhD student at UCD. I am working under [Dr. Ciaran Hickey](https://ciaranhickey.weebly.com/) on Non-Linear Magnetic Response.
 
-Getting started
-======
-Doubles maked one above a full title
+This website is very much a work in progress and I am hoping to keep it updated with cool things I am working on. Feel free to look around but there is unfortunately not a lot to see.
 
-Create content & metadata
-------
-this little thing gives sub headings.
+
+What is Non-linear Magnetic Response?
+============
+I dunno man I haven't started reseaching it yet
