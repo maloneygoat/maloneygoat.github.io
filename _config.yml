@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
+site_theme               : "air" # Currently available options are "default", "air"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Brian Maloney"
@@ -22,7 +22,7 @@ repository               : "maloneygoat/maloneygoat.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Mugshot.jpeg"
   name             : "Brian Maloney"
   pronouns         : # example: "she/her"  
   bio              : "Theoretically a Physicist" # Leave this empty
